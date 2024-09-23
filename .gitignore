@@ -1,0 +1,20 @@
+Vanesa Kostadinova
+# Ignore Unity-specific files and folders
+Library/
+Temp/
+Logs/
+UserSettings/
+*.sln
+*.csproj
+*.userprefs
+
+
+# Ignore Packages folder if you are using a package manager
+Packages/
+
+# Ignore any OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore any other files or folders you want to exclude
+.vsconfig
